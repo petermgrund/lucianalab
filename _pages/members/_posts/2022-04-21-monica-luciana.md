@@ -14,6 +14,9 @@ social:
     research-gate: 
 education:
  - B.A. Boston College (1985) <br> Ph.D. University of Minnesota (1994)
+contact:
+    umn-email: lucia003@umn.edu
+    phone: 612-626-0757
 ---
 
 **Monica Luciana** is Professor and former Chair of the Department of Psychology at the University of Minnesota. She obtained her B.A. in Psychology at Boston College in 1985 and worked at McLean Hospital in Belmont Massachusetts for a longitudinal depression research study before moving to Minnesota several years later to begin graduate school. She obtained her Ph.D. in 1994 from the University of Minnesota’s clinical psychology program where she specialized in studying the neurochemical bases of executive functions, using pharmacological challenge techniques.  As a postdoctoral research associate at the University of Minnesota’s Institute of Child Development and supported by the MacArthur Network on Development and Psychopathology, she undertook a large-scale investigation of the development of executive functions in healthy 4 to 12 year-old children using the CANTAB computerized testing battery.   
