@@ -2,7 +2,7 @@
 layout: lab_member
 category: investigator
 title: Monica Luciana, PhD
-image: researcher.png
+image: monica-luciana.jpeg
 role: Principle Investigator
 permalink: 'members/monica-luciana'
 social:
