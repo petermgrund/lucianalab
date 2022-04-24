@@ -1,6 +1,6 @@
 ---
 layout: lab_member
-category: ugrad-student
+category: undergrad
 title: Sanjali Roy
 image: 
 role: Undergrad RA
