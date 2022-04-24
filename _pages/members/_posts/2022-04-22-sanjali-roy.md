@@ -11,7 +11,6 @@ social:
     google-scholar: https://scholar.google.fr/
     github: https://github.com/
     website:
-    orcid: https://orcid.org/
     research-gate: https://www.researchgate.net/
 education:
  - Education

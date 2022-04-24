@@ -6,15 +6,14 @@ image: peter-grund.png
 role: Research Professional 1
 permalink: 'members/peter-grund'
 social:
-    twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
-    website:
-    orcid: https://orcid.org/
+    twitter: https://twitter.com/petermgrund
+    linkedin: https://www.linkedin.com/in/peter-m-grund-022352102/
+    google-scholar: https://scholar.google.com/
+    github: https://github.com/petermgrund
+    website: https://petermgrund.netlify.app/
     research-gate: https://www.researchgate.net/
 education:
- - Education
+ - B.S. University of Minnesota (2022)
 ---
 
 Peter Grund is a senior pursuing a B.S. in psychology and a minor in integrative neuroscience. He joined the lab in May 2019 to gain experience administering cognitive and neuropsychological tasks and for a better understanding of statistical analyses. Peter is interested in the neurobiological influences of substance use on adolescent brain development, as well as psychiatric genetics. He is coordinating two of the lab's current projects and assists in behavioral testing and data collection. He is carrying out an independent research project on the long-term effects of alcohol and cannabis use on adolescent/young adult impulsivity, as well as a project investigating the neural correlates of delay discounting. Peter also manages the BBPL lab website.

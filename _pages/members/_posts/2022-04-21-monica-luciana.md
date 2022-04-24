@@ -11,7 +11,6 @@ social:
     google-scholar: https://scholar.google.fr/
     github: https://github.com/
     website:
-    orcid: https://orcid.org/
     research-gate: https://www.researchgate.net/
 education:
  - B.A. Boston College (1985) <br> Ph.D. University of Minnesota (1994)
