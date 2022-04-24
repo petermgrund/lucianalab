@@ -2,7 +2,7 @@
 layout: lab_member
 category: investigator
 title: Paul Collins, PhD
-image: paul-collins.jpeg
+image: blank.jpeg
 role: Research Associate/Co-Investigator
 permalink: 'members/paul-collins'
 social:
