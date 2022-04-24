@@ -6,12 +6,12 @@ image: monica-luciana.jpeg
 role: Principle Investigator
 permalink: 'members/monica-luciana'
 social:
-    twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
-    website:
-    research-gate: https://www.researchgate.net/
+    twitter: 
+    linkedin: 
+    google-scholar: https://scholar.google.com/citations?user=WqIbztIAAAAJ&hl=en&oi=ao
+    github: 
+    website: https://cla.umn.edu/about/directory/profile/lucia003
+    research-gate: 
 education:
  - B.A. Boston College (1985) <br> Ph.D. University of Minnesota (1994)
 ---
