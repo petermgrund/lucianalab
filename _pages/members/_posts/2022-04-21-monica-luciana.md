@@ -14,7 +14,8 @@ social:
     website: https://cla.umn.edu/about/directory/profile/lucia003
     research-gate: 
 education:
- - B.A. Boston College (1985) <br> Ph.D. University of Minnesota (1994)
+ - B.A. Boston College (1985)
+ - Ph.D. University of Minnesota (1994)
 contact:
     umn-email: lucia003@umn.edu
     phone: 612-626-0757

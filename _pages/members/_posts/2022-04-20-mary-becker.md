@@ -13,7 +13,8 @@ social:
     github: 
     website:
     research-gate: 
-education: Ph.D. University of Minnesota (2015)
+education: 
+- Ph.D. University of Minnesota (2015)
 contact:
     umn-email: marypbecker@gmail.com
 
