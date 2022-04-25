@@ -11,7 +11,7 @@ permalink: /members
 <!-- Investigators -->
 
 <h2><a id="investigator"></a>Investigators</h2>
-{% assign members = site.posts | where: 'category', 'investigator' | sort: 'date' %}
+{% assign members = site.posts | where: 'category', 'investigator' | where: 'alumni', 'false' | sort: 'date' %}
 {% for member in members %}
 <div class="card team-member-card">
     <div class="row mt-3">
@@ -37,7 +37,7 @@ permalink: /members
 <!-- Staff -->
 
 <h2><a id="staff"></a>Staff</h2>
-{% assign members = site.posts | where: 'category', 'staff' | sort: 'date' %}
+{% assign members = site.posts | where: 'category', 'staff' | where: 'alumni', 'false' | sort: 'date' %}
 {% for member in members %}
 <div class="card team-member-card">
     <div class="row mt-3">
@@ -62,7 +62,7 @@ permalink: /members
 <!-- Postdocs -->
 
 <h2><a id="postdoc"></a>Postdocs</h2>
-{% assign members = site.posts | where: 'category', 'postdoc' | sort: 'date' %}
+{% assign members = site.posts | where: 'category', 'postdoc' | where: 'alumni', 'false' | sort: 'date' %}
 {% for member in members %}
 <div class="card team-member-card">
     <div class="row mt-3">
@@ -87,7 +87,7 @@ permalink: /members
 <!-- Grad students -->
 
 <h2><a id="graduate student"></a>Graduate Students</h2>
-{% assign members = site.posts | where: 'category', 'graduate student' | sort: 'date' %}
+{% assign members = site.posts | where: 'category', 'graduate student' | where: 'alumni', 'false' | sort: 'date' %}
 {% for member in members %}
 <div class="card team-member-card">
     <div class="row mt-3">
@@ -112,7 +112,7 @@ permalink: /members
 <!-- Undergrad students -->
 
  <h2><a id="undergraduate"></a>Undergraduates</h2>
-{% assign members = site.posts | where: 'category', 'undergraduate' | sort: 'date' %}
+{% assign members = site.posts | where: 'category', 'undergraduate' | where: 'alumni', 'false' | sort: 'date' %}
 {% for member in members %}
 <div class="card team-member-card">
     <div class="row mt-3">
