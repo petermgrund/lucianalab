@@ -1,6 +1,6 @@
 ---
 layout: lab_member
-category: undergrad
+category: undergraduate
 title: Erin Schiemann
 image: erin-schiemann.jpeg
 role: Undergrad RA
