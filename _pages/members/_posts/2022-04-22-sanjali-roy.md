@@ -7,12 +7,12 @@ role: Undergrad RA
 alumni: false
 permalink: 'members/sanjali-roy'
 social:
-    twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
+    twitter: 
+    linkedin: 
+    google-scholar: 
+    github: 
     website:
-    research-gate: https://www.researchgate.net/
+    research-gate: 
 education:
 
 ---
