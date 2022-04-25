@@ -4,6 +4,7 @@ category: investigator
 title: Monica Luciana, PhD
 image: monica-luciana.jpeg
 role: Principle Investigator
+alumni: false
 permalink: 'members/monica-luciana'
 social:
     twitter: 

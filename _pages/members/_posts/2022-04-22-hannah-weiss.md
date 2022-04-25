@@ -4,6 +4,7 @@ category: "graduate student"
 title: Hannah Weiss
 image: hannah-weiss.jpeg
 role: PhD Student
+alumni: false
 permalink: 'members/hannah-weiss'
 social:
     twitter: https://twitter.com/

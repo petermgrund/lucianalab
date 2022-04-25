@@ -4,6 +4,7 @@ category: investigator
 title: Paul Collins, PhD
 image: blank.jpeg
 role: Research Associate/Co-Investigator
+alumni: false
 permalink: 'members/paul-collins'
 social:
     twitter: https://twitter.com/

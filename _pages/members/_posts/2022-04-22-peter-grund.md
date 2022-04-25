@@ -4,6 +4,7 @@ category: staff
 title: Peter M Grund
 image: peter-grund.png
 role: Research Professional 1
+alumni: false
 permalink: 'members/peter-grund'
 social:
     twitter: https://www.twitter.com/petermgrund

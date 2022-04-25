@@ -4,6 +4,7 @@ category: undergraduate
 title: Erin Schiemann
 image: erin-schiemann.jpeg
 role: Undergrad RA
+alumni: false
 permalink: 'members/erin-schiemann'
 social:
     twitter: 

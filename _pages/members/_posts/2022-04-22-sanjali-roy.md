@@ -4,6 +4,7 @@ category: undergraduate
 title: Sanjali Roy
 image: blank.jpeg
 role: Undergrad RA
+alumni: false
 permalink: 'members/sanjali-roy'
 social:
     twitter: https://twitter.com/
