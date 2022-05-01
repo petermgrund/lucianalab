@@ -1,7 +1,7 @@
 ---
 layout: lab_member
 category: undergraduate
-title: Stefan Brancel, M.D.
+title: Stefan Brancel, MD
 short-name: Stefan Brancel
 image: blank.jpeg
 role: Undergrad RA
