@@ -2,6 +2,7 @@
 layout: lab_member
 category: investigator
 title: Monica Luciana, PhD
+short-name: Monica Luciana
 image: monica-luciana.jpeg
 role: Principle Investigator
 alumni: false

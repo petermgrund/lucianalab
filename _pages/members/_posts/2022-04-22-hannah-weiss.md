@@ -2,6 +2,7 @@
 layout: lab_member
 category: "graduate student"
 title: Hannah Weiss
+short-name:
 image: hannah-weiss.jpeg
 role: PhD Student
 alumni: false

@@ -2,6 +2,7 @@
 layout: lab_member
 category: "graduate student"
 title: Vanessa Alschuler
+short-name:
 image: vanessa-alschuler.jpeg
 role: PhD Student
 alumni: false

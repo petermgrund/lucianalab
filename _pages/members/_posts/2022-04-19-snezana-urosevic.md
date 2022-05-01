@@ -2,6 +2,7 @@
 layout: lab_member
 category: 'graduate student'
 title: Snežana Urošević, PhD, LP
+short-name: Snežana Urošević
 image: snezana-urosevic.png
 role: PhD Student
 alumni: true

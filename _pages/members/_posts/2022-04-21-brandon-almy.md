@@ -2,6 +2,7 @@
 layout: lab_member
 category: 'graduate student'
 title: Brandon Almy, PhD
+short-name: Brandon Almy
 image: brandon-almy.jpg
 role: PhD Student
 alumni: true

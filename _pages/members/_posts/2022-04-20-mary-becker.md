@@ -2,6 +2,7 @@
 layout: lab_member
 category: 'graduate student'
 title: Mary Petrosko Becker, PhD
+short-name: Mary Becker
 image: mary-becker.png
 role: PhD Student
 alumni: true

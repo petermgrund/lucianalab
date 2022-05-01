@@ -2,6 +2,7 @@
 layout: lab_member
 category: staff
 title: Peter M Grund
+short-name:
 image: peter-grund.png
 role: Research Professional 1
 alumni: false

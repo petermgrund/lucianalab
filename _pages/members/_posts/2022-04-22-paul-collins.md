@@ -2,6 +2,7 @@
 layout: lab_member
 category: investigator
 title: Paul Collins, PhD
+short-name: Paul Collins
 image: blank.jpeg
 role: Research Associate/Co-Investigator
 alumni: false
