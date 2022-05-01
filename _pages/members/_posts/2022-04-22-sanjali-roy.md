@@ -2,7 +2,7 @@
 layout: lab_member
 category: undergraduate
 title: Sanjali Roy
-short-name:
+short-name: Sanjali Roy
 image: blank.jpeg
 role: Undergrad RA
 alumni: false

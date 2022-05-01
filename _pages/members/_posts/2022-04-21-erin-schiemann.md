@@ -2,7 +2,7 @@
 layout: lab_member
 category: undergraduate
 title: Erin Schiemann
-short-name:
+short-name: Erin Schiemann
 image: erin-schiemann.jpeg
 role: Undergrad RA
 alumni: false

@@ -2,7 +2,7 @@
 layout: lab_member
 category: undergraduate
 title: Nirvi Ajmera
-short-name:
+short-name: Nirvi Ajmera
 image: nirvi-ajmera.png
 role: Undergrad RA
 alumni: true

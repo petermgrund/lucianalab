@@ -2,7 +2,7 @@
 layout: lab_member
 category: undergraduate
 title: Kerry Houlihan
-short-name:
+short-name: Kerry Houlihan
 image: kerry-houlihan.jpeg
 role: Undergrad RA
 alumni: true
