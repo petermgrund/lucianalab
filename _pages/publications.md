@@ -3,7 +3,7 @@ title: "Luciana Lab - Publications"
 layout: gridlay
 excerpt: "Luciana Lab - Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publications
 ---
 
 
