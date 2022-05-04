@@ -44,7 +44,7 @@ Current projects emphasize adolescent brain development and implications for the
   </a>
 </div>
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ <!-- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
 <!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/pics/" style="width: 210px">
