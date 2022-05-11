@@ -3,12 +3,12 @@ layout: lab_member
 category: 'postdoc'
 title: Sandra Thijssen, PhD
 short-name: Sandra Thijssen
-image: blank.jpeg
+image: sandra-thijssen.jpeg
 role: Postdoc
 alumni: true
 permalink: 'members/sandra-thijssen'
 social:
-    twitter: 
+    twitter: https://twitter.com/thijssen_s
     linkedin: 
     google-scholar: 
     github: 
