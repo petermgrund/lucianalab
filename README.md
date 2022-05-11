@@ -4,4 +4,4 @@ This is the GitHub repo for a new website being developed for the Brain and Beha
 This site will be run using [Jekyll](https://jekyllrb.com/), a [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language)) gem. It will also incorporate [Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).
 
 ### Existing site
-The existing site ([lucianalab.psych.umn.edu](lucianalab.psych.umn.edu)) is being rebuilt to improve functionality and accessability.
+The existing site ([lucianalab.psych.umn.edu](https://lucianalab.psych.umn.edu/)) is being rebuilt to improve functionality, accessability, and asthetics.
