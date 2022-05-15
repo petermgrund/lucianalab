@@ -13,6 +13,7 @@ permalink: /publications
 
 For a full list of publications and patents see [below](#full-list-of-publications), go to [Google Scholar](https://scholar.google.com/citations?user=WqIbztIAAAAJ&hl=en&oi=ao), [Experts@UMN](https://experts.umn.edu/en/persons/monica-m-luciana)
 
+
 <!-- {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 

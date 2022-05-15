@@ -1,37 +1,49 @@
-<div id="footer" class="panel">
-	<div class="panel-footer">
-	  <div class="container-fluid">
-		  <div class="row">
-			  <div class="col-sm-4">
-				  <p><strong>{{ site.title }}</strong></p>
-				  <img class="img-fluid" src="../pics/logo-pics/lab-logo.png"
-					   style="max-width: 100px;">
-			  </div>
-  
-			  <div class="col-sm-4">
-				  <p><strong>Links</strong></p>
-				  <ul class="list-unstyled">
-					  <li><a href="https://github.com/petermgrund/lucianalab/">Github Repo</a></li>
-					  <li><a href="https://mctfr.psych.umn.edu/">MCTFR</a></li>
-					  <li><a href="https://cnbd.umn.edu/">CNBD</a></li>
-					  <li><a href="https://cla.umn.edu/psychology">Psych Department</a></li>
-				  </ul>
-			  </div>
-  
-			  <div class="col-sm-4">
-				  <p><strong>Contact</strong></p>
-				  <p><a href="mailto:mllab@umn.edu">mllab@umn.edu</a></p>
-				  <p>612-624-4054</p>
-			  </div>
-		  </div>
-  
-		  <!-- <div class="row mt-3">
-			  <p class="text-center">Luciana Lab</p>
-		  </div> -->
-	  </div>
+<div id="footer" class="site-footer mt-5">
+	<div class="mt-3">
+		<div class="row d-flex">
+
+			<div class="col-sm-6">
+				<p class="font-weight-bold">{{ site.title }}</p>
+
+				<ul class="list-unstyled list-inline">
+					<!-- <li class="list-inline-item">
+						<a href="https://institut-curie.org/">
+							<img class="img-fluid" src="/assets/images/curie.png" style="max-height: 40px;">
+						</a>
+					</li> -->
+
+					<li class="list-inline-item">
+						<a href="https://umn.edu/">
+							<img class="img-fluid" src="/assets/images/logos/lab-logo.png" style="max-height: 40px;">
+						</a>
+					</li>
+
+					<li class="list-inline-item">
+						<a href="https://umn.edu/">
+							<img class="img-fluid" src="/assets/images/logos/lab-logo.png" style="max-height: 30px;">
+						</a>
+					</li>
+				</ul>
+
+			</div>
+
+			<div class="col-sm-3">
+				<p class="font-weight-bold">Links</p>
+				<ul class="list-unstyled">
+					<li><a href="https://github.com/rt2lab">Github</a></li>
+				</ul>
+			</div>
+
+			<div class="col-sm-3">
+				<p class="font-weight-bold">Contact</p>
+
+				{{ site.email }}<br>
+				{{ site.number }}<br>
+			</div>
+		</div>
+
+		<div class="footer-copyright text-center py-3">
+			© 2020 {{ site.author }}
+		</div>
 	</div>
-  </div>
-  
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-  <script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
-  
+</div>

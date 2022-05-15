@@ -1,7 +1,21 @@
-- date: March 2022
-  title: Monica named CSO of Masonic Institute for the Developing Brain
-  description: "Congratulations to Dr. Monica Luciana for being named as the new Chief Scientific Officer of The Masonic Institute for the Developing Brain"
-- date: October 2019
-  title: Nirvi wins best poster
-  description: "Nirvi Ajmera, undergraduate research assistant, won the “Best Poster Award” at the 2019 Minnesota Symposium on Addiction for her poster, titled “ Longitudinal Analysis of Marijuana Initiation and Usage On Verbal Learning and Memory”. Kudos to Nirvi, who competed against faculty members, postdoctoral trainees, and graduate students. <img src='pics/event-pics/nirvi-mn-2019.png' class='img-responsive' style='max-width: 200px' />"
+- date: 05/09/19
+  title: "Another great thing"
+  tags:
+    - some
+    - tags
+  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
+    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
+    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
 
+- date: 03/09/19
+  title: "Something great"
+  tags:
+    - some
+    - tags
+  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
+    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
+    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
