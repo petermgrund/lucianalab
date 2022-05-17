@@ -18,51 +18,47 @@ permalink: /members
   </div>
 
 <!-- Investigators -->
+<h2 class="mb-3"><a id="staff"></a>Investigators</h2>
 
-<h2><a id="investigator"></a>Investigators</h2>
 {% assign members = site.posts | where: 'category', 'investigator' | where: 'alumni', 'false' | sort: 'date' %}
 {% for member in members %}
-<div class="card">
-    <div class="row mt-3">
-        <div class="col-md-2">
-            <a href={{member.url}}>
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/members/{{ member.image }}"
-                    class="card-img img-responsive img-thumbnail"
+<div class="row mt-3">
+    <div class="col-md-2">
+        <a href={{member.url}}>
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/members/{{ member.image }}"
+                    class="img-responsive img-thumbnail"
                     style="max-width: 100px;"/>
-            </a>
-        </div>
+        </a>
+    </div>
 
-        <div class="col-md-10">
-            <div class="card-body">
-            <h4 class="card-title"><a href={{member.url}}>{{ member.title }}</a></h4>
-            <p class="card-text">{{ member.role }}</p>
-            </div>
+    <div class="col-md-10">
+        <div class="card-body">
+        <h4 class="card-title"><a href={{member.url}}>{{ member.title }}</a></h4>
+        <p class="card-text">{{ member.role }}</p>
         </div>
     </div>
 </div>
 {% endfor %}
 
-
 <!-- Staff -->
 
-<h2><a id="staff"></a>Staff</h2>
+<h2 class="mb-3"><a id="staff"></a>Staff</h2>
+
 {% assign members = site.posts | where: 'category', 'staff' | where: 'alumni', 'false' | sort: 'date' %}
 {% for member in members %}
-<div class="card team-member-card">
-    <div class="row mt-3">
-        <div class="col-md-2">
-            <a href={{member.url}}>
-                <img src="{{ site.url }}{{ site.baseurl }}/assets/images/members/{{ member.image }}"
+<div class="row mt-3">
+    <div class="col-md-2">
+        <a href={{member.url}}>
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/images/members/{{ member.image }}"
                     class="card-img img-responsive img-thumbnail"
                     style="max-width: 100px;"/>
-            </a>
-        </div>
+        </a>
+    </div>
 
-        <div class="col-md-10">
-            <div class="card-body">
-                <h4 class="card-title"><a href={{member.url}}>{{ member.title }}</a></h4>
-                <p class="card-text">{{ member.role }}</p>
-            </div>
+    <div class="col-md-10">
+        <div class="card-body">
+            <h4 class="card-title"><a href={{member.url}}>{{ member.title }}</a></h4>
+            <p class="card-text">{{ member.role }}</p>
         </div>
     </div>
 </div>
@@ -73,7 +69,6 @@ permalink: /members
 <h2><a id="postdoc"></a>Postdocs</h2>
 {% assign members = site.posts | where: 'category', 'postdoc' | where: 'alumni', 'false' | sort: 'date' %}
 {% for member in members %}
-<div class="card team-member-card">
     <div class="row mt-3">
         <div class="col-md-2">
             <a href={{member.url}}>
@@ -90,7 +85,6 @@ permalink: /members
             </div>
         </div>
     </div>
-</div>
 {% endfor %}
 
 <!-- Grad students -->
@@ -98,7 +92,6 @@ permalink: /members
 <h2><a id="graduate student"></a>Graduate Students</h2>
 {% assign members = site.posts | where: 'category', 'graduate student' | where: 'alumni', 'false' | sort: 'date' %}
 {% for member in members %}
-<div class="card team-member-card">
     <div class="row mt-3">
         <div class="col-md-2">
             <a href={{member.url}}>
@@ -114,7 +107,6 @@ permalink: /members
             <p class="card-text">{{ member.role }}</p>
             </div>
         </div>
-    </div>
 </div>
 {% endfor %}
 
@@ -123,7 +115,6 @@ permalink: /members
  <h2><a id="undergraduate"></a>Undergraduates</h2>
 {% assign members = site.posts | where: 'category', 'undergraduate' | where: 'alumni', 'false' | sort: 'date' %}
 {% for member in members %}
-<div class="card team-member-card">
     <div class="row mt-3">
         <div class="col-md-2">
             <a href={{member.url}}>
@@ -139,7 +130,6 @@ permalink: /members
             <p class="card-text">{{ member.role }}</p>
             </div>
         </div>
-    </div>
 </div> 
 {% endfor %}
 
@@ -152,14 +142,12 @@ permalink: /members
 <h4><a id="postdoc alumni"></a>Postdocs</h2>
 {% assign members = site.posts | where: 'category', 'postdoc'| where: 'alumni', 'true' | sort: 'date' %}
 {% for member in members %}
-<div class="card team-member-card">
     <div class="row mt-3">
         <div class="col-md-10">
             <ul>
                 <li><a href={{member.url}}>{{ member.short-name }}</a></li>
             </ul>
         </div>
-    </div>
 </div> 
 {% endfor %}
 </div> 
@@ -168,14 +156,12 @@ permalink: /members
 <h4><a id="graduate alumni"></a>Graduate students</h2>
 {% assign members = site.posts | where: 'category', 'graduate student'| where: 'alumni', 'true' | sort: 'date' %}
 {% for member in members %}
-<div class="card team-member-card">
     <div class="row mt-3">
         <div class="col-md-10">
             <ul>
                 <li><a href={{member.url}}>{{ member.short-name }}</a></li>
             </ul>
         </div>
-    </div>
 </div> 
 {% endfor %}
 </div> 
@@ -184,14 +170,12 @@ permalink: /members
 <h4><a id="undergraduate alumni"></a>Undergrad alumni</h2>
 {% assign members = site.posts | where: 'category', 'undergraduate'| where: 'alumni', 'true' | sort: 'date' %}
 {% for member in members %}
-<div class="card team-member-card">
     <div class="row mt-3">
         <div class="col-md-10">
             <ul>
                 <li><a href={{member.url}}>{{ member.short-name }}</a></li>
             </ul>
         </div>
-    </div>
 </div> 
 {% endfor %}
 </div> 
