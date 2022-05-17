@@ -1,28 +1,28 @@
-<li class="media mb-1">
+<li class="media">
     <div class="media-body">
 
         <p>
             <!-- author -->
-            {{ publi.Author }},
+            {{ publication.Author }},
 
             <!-- year -->
-            {{ publi['Publication Year'] | to_integer }},
+            {{ publication['Publication Year'] | to_integer }},
 
             <!-- article title -->
-            "{{ publi.Title }}",
+            "{{ publication.Title }}",
 
             <!-- journal -->
-            <span class="font-italic">{{ publi['Publication Title'] }}</span>,
+            <span class="font-italic">{{ publication['Publication Title'] }}</span>,
 
-            {% if publi.Volume != "" and publi.Issue != "" and publi.Pages != "" %}
-                vol. {{ publi.Volume | to_integer }},
-                no. {{ publi.Issue | to_integer }},
-                pp. {{ publi.Pages }}
+            {% if publication.Volume != "" and publication.Issue != "" and publication.Pages != "" %}
+                vol. {{ publication.Volume | to_integer }},
+                no. {{ publication.Issue | to_integer }},
+                pp. {{ publication.Pages }}
             {% endif %}
 
             <!-- DOI -->
-            {% if publi.DOI %}
-                <a href="https://doi.org/{{publi.DOI}}">DOI:{{publi.DOI}}</a>
+            {% if publication.DOI %}
+                <a href="https://doi.org/{{publication.DOI}}">DOI:{{publication.DOI}}</a>
             {% endif %}
         </p>
 
