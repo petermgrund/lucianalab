@@ -18,6 +18,8 @@ $theme-colors: (
 body {
   max-width: 800px;
   margin: 0 auto;
+	font-family: Verdana, Arial, sans-serif;
+	box-sizing: border-box;
 }
 
 p {
@@ -38,3 +40,9 @@ p {
   object-fit: cover;
   border-radius: 8px;
 }
+  
+  a:focus,
+  button:focus {
+	outline: solid 3px #ffbf47;
+  }
+  
