@@ -13,7 +13,7 @@ social:
     google-scholar: https://scholar.google.com/citations?user=WqIbztIAAAAJ&hl=en&oi=ao
     github: 
     website: https://cla.umn.edu/about/directory/profile/lucia003
-    research-gate: 
+    research-gate: https://www.researchgate.net/profile/Monica-Luciana
 education:
  - B.A. Boston College (1985)
  - Ph.D. University of Minnesota (1994)
