@@ -1,10 +1,10 @@
 ---
 layout: lab_member
-category: 'graduate student'
+category: postdoc
 title: Snežana Urošević, PhD, LP
 short-name: Snežana Urošević
 image: snezana-urosevic.png
-role: PhD Student
+role: Postdoc
 alumni: true
 permalink: 'members/snezana-urosevic'
 social:
