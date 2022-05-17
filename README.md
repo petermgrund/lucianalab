@@ -1,7 +1,9 @@
 # Luciana Lab Website
 
-This website is built with [Jekyll](https://jekyllrb.com/).
+This site will be run using [Jekyll](https://jekyllrb.com/), a [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language)) gem. It will also incorporate [Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)).
 
+### Existing site
+The existing site ([lucianalab.psych.umn.edu](https://lucianalab.psych.umn.edu/)) is being rebuilt to improve functionality, accessability, and asthetics.
 ## Setup
 
 ```
