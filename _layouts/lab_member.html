@@ -2,6 +2,8 @@
 layout: textlay
 ---
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
 <div class="col-sm-12">
     <div class=row>
         <nav aria-label="breadcrumb">
@@ -20,36 +22,35 @@ layout: textlay
 
         <!-- Name & Role -->
         <h1>{{ page.title }}</h1>
-        <h3>{{ page.role }}</h3>
+        <h4><strong>{{ page.role }}</strong></h4>
         {% if page.alumni == true %}
-        <h3><i>Alumni</i></h3>
+        <h4><i>Alumni</i></h4>
         {% endif %}
 
         <!-- Social -->
-        <ul class="list-inline list-unstyled">
             <!-- Twitter -->
             {% if page.social.twitter %}
-                <li><a target="blank" href="{{page.social.twitter}}"><i class="fa fa-twitter"></i></a></li>
+                <a target="blank" href="{{page.social.twitter}}"><i class="fab fa-twitter fa-1x"></i></a>
             {% endif %}
             <!-- Linkedin -->
             {% if page.social.linkedin %}
-                <li><a target="blank" href="{{page.social.linkedin}}"><i class="fa fa-linkedin"></i></a></li>
+                <a target="blank" href="{{page.social.linkedin}}"><i class="fab fa-linkedin fa-1x"></i></a>
             {% endif %}
             <!-- Github -->
             {% if page.social.github %}
-                <li><a target="blank" href="{{page.social.github}}"><i class="fa fa-github"></i></a></li>
+                <a target="blank" href="{{page.social.github}}"><i class="fab fa-github fa-1x"></i></a>
             {% endif %}
             <!-- Personal Website -->
             {% if page.social.website %}
-                <li><a target="blank" href="{{page.social.website}}"><i class="fa fa-globe"></i></a></li>
+                <a target="blank" href="{{page.social.website}}"><i class="fa fa-globe fa-1x"></i></a>
             {% endif %}
             <!-- Google Scholar -->
             {% if page.social.google-scholar %}
-                <li><a target="blank" href="{{page.social.google-scholar}}"><i class="fa fa-google"></i></a></li>
+                <a target="blank" href="{{page.social.google-scholar}}"><i class="ai ai-google-scholar ai-1x"></i></a>
             {% endif %}
             <!-- Research Gate -->
             {% if page.social.research-gate %}
-                <li><a target="blank" href="{{page.social.research-gate}}"><i class="fa fa-google"></i></a></li>
+                <a target="blank" href="{{page.social.research-gate}}"><i class="ai ai-researchgate ai-1x"></i></a>
             {% endif %}
         </ul>
     </div>
@@ -86,4 +87,18 @@ layout: textlay
         <h3>Bio</h3>
         {{ content }}
     </div>
+
+
+<!-- Publications -->
+
+<div>
+    <h3>Publications</h3>
+
+{% for publication in site.data.publications %}
+<ul class="list-unstyled">
+  {{ publication.title }} <br />
+  <em>{{ publication.authors }} </em><br /><a href="{{ publication.link.url }}">{{ publication.link.display }}</a>
+</ul>
+{% endfor %}
+</div>
 </div>
